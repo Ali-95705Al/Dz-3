@@ -1,0 +1,15 @@
+C:\Users\all\Desktop\C#\Дз_3\Work_1\bin\Debug\net7.0\Work_1.exe
+C:\Users\all\Desktop\C#\Дз_3\Work_1\bin\Debug\net7.0\Work_1.deps.json
+C:\Users\all\Desktop\C#\Дз_3\Work_1\bin\Debug\net7.0\Work_1.runtimeconfig.json
+C:\Users\all\Desktop\C#\Дз_3\Work_1\bin\Debug\net7.0\Work_1.dll
+C:\Users\all\Desktop\C#\Дз_3\Work_1\bin\Debug\net7.0\Work_1.pdb
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.csproj.AssemblyReference.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.AssemblyInfoInputs.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.AssemblyInfo.cs
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.csproj.CoreCompileInputs.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.dll
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\refint\Work_1.dll
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.pdb
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\Work_1.genruntimeconfig.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_1\obj\Debug\net7.0\ref\Work_1.dll
