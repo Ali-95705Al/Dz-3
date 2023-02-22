@@ -1,0 +1,15 @@
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.csproj.AssemblyReference.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.AssemblyInfoInputs.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.AssemblyInfo.cs
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.csproj.CoreCompileInputs.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_2\bin\Debug\net7.0\Work_2.exe
+C:\Users\all\Desktop\C#\Дз_3\Work_2\bin\Debug\net7.0\Work_2.deps.json
+C:\Users\all\Desktop\C#\Дз_3\Work_2\bin\Debug\net7.0\Work_2.runtimeconfig.json
+C:\Users\all\Desktop\C#\Дз_3\Work_2\bin\Debug\net7.0\Work_2.dll
+C:\Users\all\Desktop\C#\Дз_3\Work_2\bin\Debug\net7.0\Work_2.pdb
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.dll
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\refint\Work_2.dll
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.pdb
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\Work_2.genruntimeconfig.cache
+C:\Users\all\Desktop\C#\Дз_3\Work_2\obj\Debug\net7.0\ref\Work_2.dll
